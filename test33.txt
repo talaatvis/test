@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0429-34FB
+
+ Directory of C:\Users\User\test
+
+08/05/2019  12:03 PM    <DIR>          .
+08/05/2019  12:03 PM    <DIR>          ..
+08/05/2019  10:57 AM                 8 README.md
+08/05/2019  11:15 AM               392 test.txt
+08/05/2019  12:03 PM                 0 test33.txt
+               3 File(s)            400 bytes
+               2 Dir(s)  141,365,129,216 bytes free
